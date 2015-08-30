@@ -7,7 +7,7 @@ features = ["blog", "themes", "disqus"]
 min_version = 0.14
 
 [params]
-    themeColor = "theme-base-09"
+    themeColor = "theme-base-0f"
 
 [author]
     name = "spf13"

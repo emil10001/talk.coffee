@@ -57,6 +57,7 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.7);
+  background-image: url("https://s3.amazonaws.com/ejf3-public/hosted_files/ejf_io/coffee_beans.jpg");
 }
 /* background-color: #202020; */
 @media (min-width: 48em) {
