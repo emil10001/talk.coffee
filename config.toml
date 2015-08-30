@@ -1,4 +1,4 @@
-baseurl = "http://talk.coffee"
+baseurl = "http://talk.coffee/"
 languageCode = "en-us"
 title = "Talk Coffee"
 paginate = 10
