@@ -1,3 +1,9 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://talk.coffee"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Talk Coffee"
+paginate = 10
+paginatePath = "page"
+
+[params]
+  author = "E John Feig"
+  description = "A landing page for the Slack Talk Coffee community"
